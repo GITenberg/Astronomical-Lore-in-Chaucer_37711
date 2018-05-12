@@ -1,0 +1,29 @@
+_repo: Astronomical-Lore-in-Chaucer_37711
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grimm, Florence M. (Florence Marie)
+    alias: Grimm, Florence Marie
+    gutenberg_agent_id: '39001'
+    url: http://www.gutenberg.org/2009/agents/39001
+description: ''
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37711'
+  lccn: '19027204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chaucer, Geoffrey, -1400 -- Knowledge -- Astronomy'
+- !lcc 'PR'
+- !lcsh 'Astronomy, Medieval, in literature'
+tableOfContents: Astronomy in the Middle Ages -- Chaucer's scientific knowledge --
+  Chaucer's cosmology -- Chaucer's astronomy -- Astrological lore in Chaucer -- Appendix.
+title: Astronomical Lore in Chaucer
+url: http://www.gutenberg.org/ebooks/37711
